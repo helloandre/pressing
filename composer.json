@@ -1,6 +1,7 @@
 {
     "name": "helloandre/pressing",
     "type": "library",
+    "license": "MIT",
     "description": "extensible library for static site generation",
     "keywords": ["static site generator"],
     "require": {
