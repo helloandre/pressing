@@ -1,0 +1,15 @@
+{
+    "name": "helloandre/pressing",
+    "type": "library",
+    "description": "extensible library for static site generation",
+    "keywords": ["static site generator"],
+    "require": {
+        "php": "^5.4|^7.0",
+        "twig/twig": "~1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pressing\\": "src/"
+        }
+    }
+}

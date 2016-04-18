@@ -1,0 +1,6 @@
+{
+    "output_dir": "public/",
+    "input_dir": "src/",
+    "template_dir": "templates/",
+    "template_engine": "Twig"
+}
